@@ -18,6 +18,7 @@ Used bar and line charts to make trends and to understand it well. Added slicers
 **Insights**: As we can see from report overall revenue we have generated is 55M and out of that from interest rate we have earned 8M and so on. Male customers are contributing more in revenue 30M,female 25M. People with higher income mostly use credit card and have better satisfaction score. Bills and Entertainment are the top categories where people spend using credit cards. Blue and Silver credit cards are contributing to 90% of overall transactions. 
 
 This report will help the business to identify WOW change in revenue,customer usage patterns,top-performing categories,and high risk user segments for better decision making.
+After preparing of this dashboard we can share it with stakeholders,so that later we can take actions on it.
 
 
 
